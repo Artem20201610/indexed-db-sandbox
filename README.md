@@ -1,2 +1,2 @@
-# indexed-db-sandbox
+# posts-mobile-layout
 Created with CodeSandbox
